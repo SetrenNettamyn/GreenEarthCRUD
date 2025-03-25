@@ -65,5 +65,3 @@
 <h3 align="left">[PH]: </h3>
 <h5 align="left"></h5>
 
-<h2 align="left">APK Deployment: </h2>
-<h5 align="left">Follow this link for the neccesary documentation: https://docs.expo.dev/build-reference/apk/</h5>
